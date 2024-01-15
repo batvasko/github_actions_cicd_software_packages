@@ -8,7 +8,7 @@
   <artifactId>hello-actions</artifactId>
 
   <!-- UPDATE THE VERSION EACH RELEASE -->
-  <version>2.0.0</version>
+  <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
   <groupId>batvasko</groupId>
@@ -41,8 +41,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
         <configuration>
-          <source>11</source>
-          <target>11</target>
+          <source>21</source>
+          <target>21</target>
         </configuration>
       </plugin>
       <plugin>
